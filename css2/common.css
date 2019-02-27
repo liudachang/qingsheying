@@ -1,0 +1,30 @@
+body{
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+.my_small{
+    font-size: 0.8rem;
+}
+.my_gray{
+    color: #808080;
+}
+/*@media screen and (min-width: 992px) {*/
+    /*.my_header{*/
+        /*width: 100%;*/
+    /*}*/
+    /*.my_footer{*/
+        /*width: 100%;*/
+        /*height: 23rem;*/
+    /*}*/
+/*}*/
+/*@media screen and (min-width: 576px) {*/
+    /*.my_header{*/
+        /*width: 100%;*/
+        /*height: 14rem;*/
+    /*}*/
+    /*.my_footer{*/
+        /*width: 100%;*/
+        /*height: 40rem;*/
+    /*}*/
+/*}*/

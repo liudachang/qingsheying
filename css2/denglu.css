@@ -1,0 +1,18 @@
+*{margin:0;padding:0;}
+body{background-image:url("../img/6BA437AF1265454DB4FF9DA057941C83_1530753414278.jpg");background-repeat: no-repeat;}
+a{text-decoration: none;color:#fff;}
+.zongde{position:relative;}
+.touming{width:400px;height:340px;background:rgba(0,0,0,.5);color:#fff;position:absolute;top:50%;margin-top: 214px;right: 100px;}
+.touming>.hy{font-size:18px;width:340px;height:24px;border-bottom: 1px solid #fff;padding-bottom:10px;margin:25px 30px;}
+.touming>.anniu{margin:6px 35px;font-size:14px;}
+.an{width:340px;height:204px;margin-left:35px;}
+.shuru>span{width:70px;height:30px;display: inline-block;}
+.shuru>input{width:218px;height:30px;padding:auto 15px; display: inline-block;}
+.shuru{margin:20px auto;}
+
+
+.tj>button{width:320px;height:32px;background-color:#524ea2;border-color:#524ea2; color:#fff;margin-top: 10px;margin-left:3px;}
+
+.sw{display:flex;justify-content:center;margin:10px auto;}
+.sw>a{width:56px;height:19px;font-size:14px;display: inline-block;margin:10px 10px;}
+.sw>span{margin:8px 0;}

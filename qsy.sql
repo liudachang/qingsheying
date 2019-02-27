@@ -1,0 +1,11 @@
+DROP DATABASE IF EXISTS qsy;
+CREATE DATABASE qsy;
+USE qsy;
+CREATE TABLE mg(
+  sid INT,
+  name VARCHAR(8),
+  url VARCHAR(32)
+);
+INSERT INTO mg VALUES("1","tom","http://127.0.0.1:3000/415275890502487.jpg");
+
+

@@ -1,0 +1,56 @@
+
+.carousel-indicators li{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+}
+ .carousel-indicators .active{
+    background: #0aa1ed;
+}
+.carousel-control-prev,
+ .carousel-control-next{
+    width: 5%;
+    height:20%;
+    top: 45%;
+    background: #dddddd;
+}
+div div.card{
+    background: #e8e8e8;
+}
+/*.my_img1{*/
+    /*height: 15rem;*/
+    /*transition: 1s;*/
+/*}*/
+/*.my_img1:hover{*/
+    /*transform:scale(1.2,1.2);*/
+/*}*/
+/*img.my_img2{*/
+    /*height: 10rem;*/
+    /*margin-left:-5rem;*/
+    /*transition: 1s;*/
+/*}*/
+/*img.my_img2:hover{*/
+    /*transform:scale(1.2,1.2);*/
+/*}*/
+/*@media screen and (max-width: 576px){*/
+    /*img.my_img2{*/
+        /*margin-left: 10rem;*/
+    /*}*/
+/*}*/
+/*.my_img3{*/
+    /*height: 14rem;*/
+/*}*/
+/*.my_w95{*/
+    /*width: 41.5rem;*/
+/*}*/
+/*@media screen and (min-width: 768px) and (max-width: 991px){*/
+    /*.my_w95{*/
+        /*margin-left: 0.5rem;*/
+        /*width: 43.5rem;*/
+    /*}*/
+/*}*/
+
+
+
+
+
